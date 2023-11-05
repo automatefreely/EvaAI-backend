@@ -1,4 +1,4 @@
 Flask==3.0.0
-gunicorn==21.2.0
-huggingface-hub==0.18.0
-langchain==0.0.330
+gunicorn
+huggingface-hub
+langchain
